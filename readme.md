@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://nafeesansari.vercel.app"><b>🌐 Portfolio</b></a> •
-  <a href="https://nafees178.itch.io"><b>🎮 Itch.io</b></a> •
+  <a href="https://nafeesansari.itch.io"><b>🎮 Itch.io</b></a> •
   <a href="https://github.com/nafees178"><b>GitHub</b></a> •
   <!-- <a href="https://www.linkedin.com/in/nafees-ansari"><b>LinkedIn</b></a> -->
 </p>
