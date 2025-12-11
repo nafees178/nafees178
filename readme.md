@@ -65,8 +65,6 @@
 - 🌐 [Portfolio Website](https://nafeesansari.vercel.app) – My personal portfolio showcasing projects & skills  
 - 🎮 [Games on Itch.io](https://nafeesansari.itch.io) – Check out my published indie games  
 - 📝 [Handwritten Notes Taker](https://github.com/nafees178/HandWrittenNotesTaker) – Study Notes Taker
-- 🎬 [Motivational Notes Sender](https://motivational-quote-sender-develups.vercel.app) – A Next js based daily motivational quote sender via smtp and cron job scheduler.  
-
 ---
 
 ### ✨ Fun Zone
