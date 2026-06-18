@@ -64,7 +64,7 @@
 ### 🚀 Featured Projects
 - 🌐 [Portfolio Website](https://nafeesansari.vercel.app) – My personal portfolio showcasing projects & skills  
 - 🎮 [Games on Itch.io](https://nafeesansari.itch.io) – Check out my published indie games  
-- 📝 [Handwritten Notes Taker](https://github.com/nafees178/HandWrittenNotesTaker) – Study Notes Taker
+- 📝 [AI Powered Study guide]([https://github.com/nafees178/HandWrittenNotesTaker](https://github.com/nafees178/AsS-Acads-Simply-Sorted/)) – Google Classroom connection, Time table schedular, AI Video Gen, RAG searched syllabus mapper 
 ---
 
 ### ✨ Fun Zone
